@@ -124,6 +124,3 @@ void loop() {
 * Adicionar **botão** para trocar de modo (normal ↔ pisca-alerta).
 * Usar **`millis()`** no lugar de `delay()` para permitir tarefas em paralelo (sem bloquear).
 
----
-
-Se quiser, eu deixo isso organizado em arquivos separados (`Led.h`/`Led.cpp`) ou adiciono um modo de **pisca-alerta** com um botão. Quer?
