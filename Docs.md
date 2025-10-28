@@ -108,19 +108,3 @@ void loop() {
   }
   ```
 
----
-
-## Dúvidas comuns (Troubleshooting)
-
-* **Nada acende:** confira a porta/placa no IDE e as ligações (ânodo no pino via resistor, cátodo no GND).
-* **LED muito fraco:** verifique o valor do resistor (220–330 Ω é o usual).
-* **Ordem errada:** troque os pinos nos `#define` ou ajuste a ordem das chamadas no `loop()`.
-
----
-
-## Próximos passos (se quiser evoluir)
-
-* Criar uma classe `Semaforo` que recebe três `Led` e controla a sequência.
-* Adicionar **botão** para trocar de modo (normal ↔ pisca-alerta).
-* Usar **`millis()`** no lugar de `delay()` para permitir tarefas em paralelo (sem bloquear).
-
