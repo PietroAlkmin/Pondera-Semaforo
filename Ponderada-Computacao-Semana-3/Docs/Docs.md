@@ -38,11 +38,10 @@ Este projeto implementa um semáforo funcional usando Programação Orientada a 
 
 ---
 
-**Link do vídeo:** [Inserir link aqui]
+**Link do vídeo:** [`Midia/Video.mp4`]
 
 ## 📝 Descrição do Projeto
 
-**Arquivo local:** `Midia/Video.mp4`
 
 Este projeto implementa um **semáforo funcional** usando **Programação Orientada a Objetos (POO)** em C++ para Arduino. O sistema controla o fluxo de trânsito seguindo a temporização padrão de semáforos:
 
